@@ -8,8 +8,8 @@ var moment = require('moment');
 var table_name = "usuarios";
 
 AWS.config.update({
-    accessKeyId: "",
-    secretAccessKey: "",
+    accessKeyId: "--",
+    secretAccessKey: "--",
     region: "us-east-2"
     
 });
